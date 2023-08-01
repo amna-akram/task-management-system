@@ -5,6 +5,7 @@
     "socket.io": "^4.7.1"
   },
   "scripts": {
+    "postinstall": "cd ./task-management-system && npm install",
     "client": "cd task-management-system && npm start",
     "json-server": "json-server --watch db.json --port 3001",
     "websocket-server": "node websocket-server.js",
