@@ -1,0 +1,20 @@
+/* TaskList.scss */
+
+.tasks {
+  display: flex;
+  align-items: center;
+  width: 70%;
+  flex-direction: column;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    flex-direction: column;
+  }
+}

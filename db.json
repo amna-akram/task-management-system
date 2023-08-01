@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "group1",
+      "groupId": 1
+    },
+    {
+      "username": "Amna Akram",
+      "password": "amnabhatti",
+      "groupId": "1",
+      "id": 3
+    },
+    {
+      "username": "user2",
+      "password": "group2",
+      "groupId": "2",
+      "id": 4
+    },
+    {
+      "username": "user3",
+      "password": "group1",
+      "groupId": "1",
+      "id": 5
+    },
+    {
+      "username": "user temp",
+      "password": "group1",
+      "groupId": "1",
+      "id": 6
+    },
+    {
+      "username": "user6",
+      "password": "group1",
+      "groupId": "1",
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "id": "0crn60-1690899344059",
+      "groupId": 1,
+      "priority": 2,
+      "created_by": "Amna Akram",
+      "created_at": "01/08/23 19:15:44",
+      "completed": false,
+      "title": "Look Into NLP",
+      "description": "Start exploring NLP esp transformers"
+    },
+    {
+      "id": "t4m36l-1690899379646",
+      "groupId": 1,
+      "priority": 1,
+      "created_by": "Amna Akram",
+      "created_at": "01/08/23 19:16:19",
+      "completed": false,
+      "title": "Do laundry",
+      "description": "remember to separate black and whites\n"
+    },
+    {
+      "id": "gpqbew-1690901785758",
+      "groupId": 2,
+      "priority": 1,
+      "created_by": "user2",
+      "created_at": "01/08/23 19:56:25",
+      "completed": false,
+      "title": "test",
+      "description": "testing"
+    },
+    {
+      "id": "5nkenl-1690901830605",
+      "groupId": 2,
+      "priority": 2,
+      "created_by": "user2",
+      "created_at": "01/08/23 19:57:10",
+      "completed": false,
+      "title": "test2",
+      "description": "wdnhcwd"
+    },
+    {
+      "id": "cz4xfg-1690902044546",
+      "groupId": 2,
+      "priority": 4,
+      "created_by": "user2",
+      "created_at": "01/08/23 20:00:44",
+      "completed": false,
+      "title": "test sockets",
+      "description": "socket testing"
+    },
+    {
+      "id": "wepscv-1690902923638",
+      "groupId": 1,
+      "priority": 3,
+      "created_by": "user6",
+      "created_at": "01/08/23 20:15:23",
+      "completed": false,
+      "title": "task by user 6",
+      "description": "update password"
+    }
+  ]
+}

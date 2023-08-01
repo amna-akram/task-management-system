@@ -1,0 +1,22 @@
+.add-task-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  cursor: pointer;
+  position: relative;
+  margin-top: 120px;
+
+  /* Center the plus sign */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus-icon {
+  /* Customize the icon size */
+  font-size: 32px;
+}
