@@ -18,7 +18,7 @@
 To test real-time notifications and changes, sign in with two different users using two different incognito tabs. This will allow you to view live changes and receive real-time notifications.
 
 # Technologies Used
-React, Node.js, Express, JavaScript, Sass, Socket.io, react-toastify library, react-beautiful-dnd
+React, Node.js, Express, JavaScript, Sass, Socket.io, JSON Server, react-toastify library, react-beautiful-dnd
 
 
 https://github.com/amna-akram/task-management-system/assets/54773570/ea290276-475d-487d-9b97-56415aaa7a24
