@@ -3,7 +3,7 @@
 1. Clone the Repository.
 2. Open the project root directory in your terminal.
 3. Run "npm install" to install the dependencies for both the frontend and backend.
-4. After installation, run "npm run dev" to start both the front-end and back-end servers simultaneously.
+4. After installation, run "npm run start" to start both the front-end and back-end servers simultaneously.
 
 # Functionality
 1. Sign Up and Log In
